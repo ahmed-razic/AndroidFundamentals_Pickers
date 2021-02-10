@@ -1,17 +1,11 @@
 package com.example.android.androidfundamentals_pickers;
 
 import android.app.DatePickerDialog;
-
-
 import androidx.annotation.NonNull;
 import androidx.fragment.app.DialogFragment;
-
-
 import android.app.Dialog;
 import android.os.Bundle;
 import android.widget.DatePicker;
-import android.widget.Toast;
-
 import java.util.Calendar;
 
 
